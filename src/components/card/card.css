@@ -1,0 +1,13 @@
+.contenedor-card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+}
+.cardexamen{
+    background-color:pink;
+    max-width: 300px;
+}
+.cardexamen img{
+    width: 100%;
+}
